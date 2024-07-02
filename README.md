@@ -1,11 +1,11 @@
 ## Hello 👋
-
+Education 4 win
 <!--
 **liunicke/liunicke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on codr
+- 🔭 I’m currently wstudying
 - 🌱 I’m currently learning git
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
